@@ -1,0 +1,1886 @@
+﻿ANN = {			
+	states = {
+		STATE_PIEDMONT
+		STATE_EMILIA
+		STATE_LOMBARDY
+		STATE_VENETIA
+		STATE_ISTRIA
+		STATE_ROMAGNA
+	}
+
+	ai_will_do = { always = no }
+}
+
+ASU = {	
+	states = {
+		STATE_CASTILE
+	}
+
+	ai_will_do = { always = no }
+}
+
+BAE = {
+	states = {
+		STATE_ANDALUSIA
+		STATE_GRANADA
+	}
+
+	ai_will_do = { always = no }
+}
+
+VAS = {
+	states = { STATE_NAVARRA }
+	
+	ai_will_do = { always = no }
+}
+
+COR = {
+	states = { 
+	STATE_CORSICA 
+	}
+	
+	ai_will_do = { always = no }
+}
+
+DAL = {
+	states = { 
+		STATE_DALMATIA 
+		STATE_BOSNIA
+	}
+	
+	ai_will_do = { always = no }
+}
+
+GAU = {
+	states = { 
+	STATE_ORLEANS 
+	STATE_POITOU
+	STATE_LIMOUSIN
+	STATE_AUVERGNE
+	STATE_LOIRE
+	STATE_ILE_DE_FRANCE
+	STATE_NORMANDY
+	}
+	
+	ai_will_do = { always = no }
+}
+
+HIS = {
+	states = { 
+	STATE_ANDALUSIA 
+	STATE_GRANADA
+	STATE_ALENTEJO
+	STATE_ESTREMADURA
+	STATE_CASTILE
+	STATE_TOLEDO
+	STATE_VALENCIA
+	STATE_BADAJOZ
+	STATE_ARAGON
+	STATE_CATALONIA
+	STATE_BALEARES
+	STATE_NAVARRA
+	STATE_BEIRA
+	STATE_ASTURIAS
+	}
+	
+	ai_will_do = { always = no }
+}
+
+ILL = {
+	states = { 
+	STATE_BOSNIA
+	STATE_CROATIA
+	STATE_MONTENEGRO
+	STATE_ALBANIA
+	STATE_DALMATIA
+	STATE_SLOVENIA
+	}
+	
+	ai_will_do = { always = no }
+}
+
+ITA = {
+	states = { 
+	STATE_PIEDMONT
+	STATE_EAST_SWITZERLAND
+	STATE_TYROL
+	STATE_SOUTH_TYROL
+	STATE_LOMBARDY
+	STATE_VENETIA
+	STATE_ISTRIA
+	STATE_EMILIA
+	STATE_CORSICA
+	STATE_SARDINIA
+	STATE_ROMAGNA
+	STATE_TUSCANY
+	STATE_UMBRIA
+	STATE_LAZIO
+	STATE_ABRUZZO
+	STATE_CAMPANIA
+	STATE_APULIA
+	STATE_CALABRIA
+	STATE_SICILY
+	STATE_MALTA
+	}
+	
+	ai_will_do = { always = no }
+}
+
+NAR = {
+	states = { 
+	STATE_PROVENCE
+	STATE_LANGUEDOC
+	STATE_SAVOY
+	STATE_ARMAGNAC
+	}
+	
+	ai_will_do = { always = no }
+}
+
+RAE = {
+	states = {
+	STATE_EAST_SWITZERLAND
+	STATE_TYROL
+	STATE_SOUTH_TYROL
+	}
+	
+	ai_will_do = { always = no }
+}
+
+SAR = {
+	states = {
+	STATE_SARDINIA
+	}
+	
+	ai_will_do = { always = no }
+}
+
+SIC = {
+	states = {
+	STATE_SICILY
+	STATE_MALTA	
+	}
+	
+	ai_will_do = { always = no }
+}
+
+SYA = {
+	provinces = { x805120 xB7B8F1 x00D020 xC01020 xC050E0 xEFC992 x4050DF }
+	ai_will_do = { always = no }
+}
+
+TOL = {
+	states = {
+	STATE_TOLEDO
+	}
+	
+	ai_will_do = { always = no }
+}
+
+BYZ = {
+	states = {
+	STATE_THRACE
+	STATE_RUMELIA
+	STATE_EAST_MACEDONIA
+	STATE_WEST_MACEDONIA
+	STATE_NORTH_MACEDONIA
+	STATE_THESSALIA
+	STATE_ATTICA
+	STATE_IONIAN_ISLANDS
+	STATE_PELOPONNESE
+	STATE_ALBANIA
+	STATE_MONTENEGRO
+	STATE_SOUTHERN_SERBIA
+	STATE_NORTHERN_SERBIA
+	STATE_CRETE
+	STATE_CONSTANTINOPLE
+	STATE_EAST_AEGEAN_ISLANDS
+	STATE_BULGARIA
+	STATE_WALLACHIA
+	STATE_DOBRUDJA
+	STATE_EASTERN_TRANSYLVANIA
+	STATE_AYDIN
+	STATE_HUDAVENDIGAR
+	STATE_KONYA
+	STATE_ANKARA
+	STATE_KASTAMONU
+	STATE_TRABZON
+	STATE_CRIMEA
+	STATE_CYPRUS
+	STATE_ADANA
+	STATE_KARS
+	STATE_GREATER_CAUCASUS
+	STATE_ALEPPO
+	STATE_SYRIA
+	STATE_TRANSJORDAN
+	STATE_PALESTINE
+	STATE_SINAI
+	STATE_LOWER_EGYPT
+	STATE_MATRUH
+	STATE_MIDDLE_EGYPT
+	STATE_UPPER_EGYPT
+	STATE_EGYPTIAN_DESERT
+	STATE_DONGOLA
+	STATE_LIBYA
+	STATE_LIBYAN_DESERT
+	STATE_KARS
+	STATE_GREATER_CAUCASUS
+	STATE_LEBANON
+	}
+	
+	ai_will_do = { always = no }
+}
+
+WRE = {
+	states = {
+	STATE_LAZIO
+	STATE_SARDINIA
+	STATE_CORSICA
+	STATE_ABRUZZO
+	STATE_APULIA
+	STATE_CALABRIA
+	STATE_SICILY
+	STATE_MALTA
+	STATE_CAMPANIA
+	STATE_DALMATIA
+	STATE_BOSNIA
+	STATE_CROATIA
+	STATE_SLOVENIA
+	STATE_ISTRIA
+	STATE_TYROL
+	STATE_SOUTH_TYROL
+	STATE_VENETIA
+	STATE_LOMBARDY
+	STATE_EMILIA
+	STATE_TUSCANY
+	STATE_UMBRIA
+	STATE_EAST_SWITZERLAND
+	STATE_PIEDMONT
+	STATE_SAVOY
+	STATE_PROVENCE
+	STATE_RHONE
+	STATE_WEST_SWITZERLAND
+	STATE_BURGUNDY
+	STATE_AUVERGNE
+	STATE_LANGUEDOC
+	STATE_ARMAGNAC
+	STATE_LIMOUSIN
+	STATE_POITOU
+	STATE_ORLEANS
+	STATE_ILE_DE_FRANCE
+	STATE_LOIRE
+	STATE_NORMANDY
+	STATE_BRITTANY
+	STATE_AQUITAINE
+	STATE_NAVARRA
+	STATE_ARAGON
+	STATE_CATALONIA
+	STATE_BALEARES
+	STATE_VALENCIA
+	STATE_TOLEDO
+	STATE_CASTILE
+	STATE_ANDALUSIA
+	STATE_GRANADA
+	STATE_BADAJOZ
+	STATE_ASTURIAS
+	STATE_BEIRA
+	STATE_ALENTEJO
+	STATE_ESTREMADURA
+	STATE_ROMAGNA
+	STATE_ALGIERS
+	STATE_TLEMCEN
+	STATE_CONSTANTINE
+	STATE_TUNISIA
+	STATE_TRIPOLI
+	}
+	
+	ai_will_do = { always = no }
+}
+
+ACA = {
+	states = {
+	STATE_PELOPONNESE
+	STATE_ATTICA
+	STATE_CONSTANTINOPLE
+	}
+	
+	ai_will_do = { always = no }
+}
+
+GRE = {
+	states = {
+	STATE_PELOPONNESE
+	STATE_IONIAN_ISLANDS
+	STATE_CRETE
+	STATE_THESSALIA
+	STATE_WEST_MACEDONIA
+	STATE_ATTICA
+	STATE_CONSTANTINOPLE
+	}
+	
+	ai_will_do = { always = no }
+}
+
+MAC = {
+	states = {
+	STATE_NORTH_MACEDONIA
+	STATE_EAST_MACEDONIA
+	STATE_WEST_MACEDONIA
+	STATE_THESSALIA
+	STATE_ALBANIA
+	}
+	
+	ai_will_do = { always = no }
+}
+
+CHR = {
+	states = {
+	STATE_CRIMEA
+	}
+	
+	ai_will_do = { always = no }
+}
+
+CON = {
+	provinces = { xF0A020 x30A060}
+	
+	ai_will_do = { always = no }
+}
+
+CRE = {
+	states = {
+	STATE_CRETE
+	}
+	
+	ai_will_do = { always = no }
+}
+
+EPI = {
+	states = {
+	STATE_IONIAN_ISLANDS
+	}
+	
+	ai_will_do = { always = no }
+}
+
+THR = {
+	states = {
+	STATE_RUMELIA
+	STATE_THRACE
+	}
+	
+	ai_will_do = { always = no }
+}
+
+ANG = {
+	states = {
+	STATE_YORKSHIRE
+	}
+	
+	ai_will_do = { always = no }
+}
+
+BRA = {
+	provinces = {
+	xA61E6E
+	}
+	
+	ai_will_do = { always = no }
+}
+
+DOR = {
+	provinces = { 
+	xA08061 
+	}
+	
+	ai_will_do = { always = no }
+}
+
+LUB = {
+	provinces = { x60809F }
+	
+	ai_will_do = { always = no }
+}
+
+MAG = {
+	provinces = { xA080E0 }
+	
+	ai_will_do = { always = no }
+}
+
+AUG = {
+	provinces = { x565185 xC347B1 x704A5F x18A2E1 }
+	
+	ai_will_do = { always = no }
+}
+
+NUR = {
+	provinces = { xD0C0A0 }
+	
+	ai_will_do = { always = no }
+}
+
+WUR = {
+	states = { STATE_WURTTEMBERG }
+	
+	ai_will_do = { always = no }
+}
+
+MUN = {
+	provinces = { x1DD141 }
+	
+	ai_will_do = { always = no }
+}
+
+OSN = {
+	provinces = { x4D62A0 }
+	
+	ai_will_do = { always = no }
+}
+
+FAR = {
+	provinces = { x8B7790 }
+	
+	ai_will_do = { always = no }
+}
+
+MES = {
+	states = { STATE_SAXONY }
+	
+	ai_will_do = { always = no }
+}
+
+KSH = {
+	states = { STATE_WEST_PRUSSIA }
+	
+	ai_will_do = { always = no }
+}
+
+LUS = {
+	states = { STATE_BRANDENBURG }
+	
+	ai_will_do = { always = no }
+}
+
+SLS = {
+	states = { STATE_SILESIA }
+	
+	ai_will_do = { always = no }
+}
+
+CRO = {
+	states = { 
+	STATE_WEST_SLOVAKIA
+	STATE_EAST_SLOVAKIA	
+	}
+	
+	ai_will_do = { always = no }
+}
+
+POL = {
+	use_culture_states = yes
+	
+	ai_will_do = { always = no }
+}
+
+VST = {
+	states = { STATE_WEST_GALICIA }
+	
+	ai_will_do = { always = no }
+}
+
+TIA = {
+	states = {
+	STATE_EASTERN_TRANSYLVANIA
+	STATE_WESTERN_TRANSYLVANIA
+	}
+	
+	ai_will_do = { always = no }
+}
+
+BLK = {
+	states = {
+	STATE_MOLDAVIA
+	STATE_BESSARABIA
+	STATE_HALYCH
+	}
+	
+	ai_will_do = { always = no }
+}
+
+IRE = {
+	use_culture_states = yes
+	
+	ai_will_do = { always = no }
+}
+
+BIT = {
+	provinces = { 
+	xB0A060
+	xB8FEBB
+	x31CD7B
+	x2F78D7
+	x3020E0
+	x13886D
+	}
+	
+	ai_will_do = { always = no }
+}
+
+CIL = {
+	states = { STATE_ADANA }
+	
+	ai_will_do = { always = no }
+}
+
+ASI = {
+	states = { 
+	STATE_AYDIN
+	STATE_HUDAVENDIGAR
+	STATE_KONYA
+	STATE_WEST_AEGEAN_ISLANDS
+	STATE_CONSTANTINOPLE
+	}
+	
+	ai_will_do = { always = no }
+}
+
+ABG = {
+	provinces = { 
+	x73A639
+	x40D001
+	}
+	
+	ai_will_do = { always = no }
+}
+
+GLT = {
+	states = { 
+	STATE_ANKARA
+	}
+	
+	ai_will_do = { always = no }
+}
+
+ISA = {
+	states = { 
+	STATE_ISAURIA
+	}
+	
+	ai_will_do = { always = no }
+}
+
+JUD = {
+	states = { 
+	STATE_PALESTINE
+	}
+	
+	ai_will_do = { always = no }
+}
+
+PLS = {
+	states = { 
+	STATE_PALESTINE
+	STATE_TRANSJORDAN
+	}
+	
+	ai_will_do = { always = no }
+}
+
+ORE = {
+	states = { 
+	STATE_ADANA
+	STATE_ALEPPO
+	STATE_SYRIA
+	STATE_LEBANON
+	STATE_PALESTINE
+	STATE_TRANSJORDAN
+	STATE_PALESTINE
+	STATE_SINAI
+	}
+	
+	ai_will_do = { always = no }
+}
+
+SYR = {
+	states = {
+		STATE_SYRIA
+		STATE_ALEPPO
+		STATE_LEBANON
+		STATE_PALESTINE
+		STATE_TRANSJORDAN
+		STATE_DEIR_EZ_ZOR
+	}
+	
+	ai_will_do = { always = no }
+}
+
+PHO = {
+	states = {
+		STATE_LEBANON
+	}
+	
+	ai_will_do = { always = no }
+}
+
+PNT = {
+	states = {
+		STATE_TRABZON
+		STATE_KASTAMONU
+		STATE_KARS
+		STATE_CRIMEA
+		STATE_GREATER_CAUCASUS
+	}
+	
+	ai_will_do = { always = no }
+}
+
+EGY = {
+	states = {
+		STATE_MATRUH
+		STATE_LIBYA
+		STATE_LOWER_EGYPT
+		STATE_MIDDLE_EGYPT
+		STATE_EGYPTIAN_DESERT
+		STATE_SINAI
+		STATE_UPPER_EGYPT
+		STATE_DONGOLA
+	}
+	
+	ai_will_do = { always = no }
+}
+
+AFR = {
+	states = {
+		STATE_TUNISIA
+		STATE_TRIPOLI
+		STATE_ALGIERS
+		STATE_CONSTANTINE
+		STATE_TLEMCEN
+	}
+	
+	ai_will_do = { always = no }
+}
+
+CYR = {
+	states = { STATE_LIBYA }
+	
+	ai_will_do = { always = no }
+}
+
+CAE = {
+	states = { 
+	STATE_ALGIERS
+	STATE_TLEMCEN
+	}
+	
+	ai_will_do = { always = no }
+}
+
+NUM = {
+	states = { 
+	STATE_CONSTANTINE
+	}
+	
+	ai_will_do = { always = no }
+}
+
+THE = {
+	states = { 
+	STATE_MIDDLE_EGYPT
+	STATE_UPPER_EGYPT
+	STATE_EGYPTIAN_DESERT
+	STATE_DONGOLA
+	}
+	
+	ai_will_do = { always = no }
+}
+
+TRI = {
+	states = { 
+	STATE_TRIPOLI
+	}
+	
+	ai_will_do = { always = no }
+}
+
+ALX = {
+	provinces = { 
+	xA0D020
+	xFA7AAA
+	}
+	
+	ai_will_do = { always = no }
+}
+
+KLM = {
+	provinces = { 
+	x70BC3A
+	x9743F5
+	x12A2B2
+	x693D71
+	x1B6544
+	x12D336
+	x2D1E10
+	xD99F59
+	x741AD9
+	xD19AC4
+	xFA0465
+	xDFC9F0
+	x7C7526
+	xD63384
+	x1EBACB
+	x1D7F6C
+	xEEDC59
+	x653DD0
+	x96C1A2
+	x3AC527
+	x8ACA65
+	xDDC14D
+	xCAF7B3
+	xCC78E2
+	x801040
+	}
+	
+	ai_will_do = { always = no }
+}
+
+KZN = {
+	states = {
+		STATE_KAZAN
+	}
+	ai_will_do = { always = no }
+}
+
+SBR = {
+	states = {
+		STATE_URAL
+		STATE_TOBOLSK
+		STATE_TOMSK
+		STATE_OB
+	}
+	ai_will_do = { always = no }
+}
+
+MAU = {
+	states = {
+		STATE_AL_RIF
+		STATE_FEZ
+		STATE_MARRAKECH
+		STATE_INNER_MOROCCO
+		STATE_WEST_SAHARA
+		STATE_MAURITANIA
+		STATE_CANARY_ISLANDS
+		STATE_MADERIA
+	}
+	ai_will_do = { always = no }
+}
+
+BEN = {
+	states = {
+		STATE_BENIN
+	}
+	ai_will_do = { always = no }
+}
+
+ARC = {
+	states = {
+		STATE_NEW_BRUNSWICK
+		STATE_MAINE
+	}
+	ai_will_do = { always = no }
+}
+
+CNN = {
+	states = {
+		STATE_CONNECTICUT
+	}
+	ai_will_do = { always = no }
+}
+
+RHI = {
+	states = {
+		STATE_RHODE_ISLAND
+	}
+	ai_will_do = { always = no }
+}
+
+VER = {
+	states = {
+		STATE_VERMONT
+		STATE_SHERBROOKE
+	}
+	ai_will_do = { always = no }
+}
+
+LIT = {
+	states = { 
+		STATE_LITHUANIA 
+	}
+
+	ai_will_do = { always = no }
+}
+
+BHN = {
+	provinces = { 
+	x505AE0
+	}
+	
+	ai_will_do = { always = no }
+}
+
+HIM = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+KSG = {
+	states = { 
+		STATE_DZUNGARIA 
+		STATE_TIANSHAN
+		STATE_TAJIKISTAN
+		}
+	
+	ai_will_do = { always = no }
+}
+
+LIA = {
+	states = { STATE_KIRGHIZIA }	
+	
+	ai_will_do = { always = no }
+}
+
+LID = {
+	states = { STATE_SHENGJING STATE_PYONGYANG }	
+	
+	ai_will_do = { always = no }
+}
+
+BGL = {
+	use_culture_states = yes
+	
+	ai_will_do = { always = no }
+}
+
+BIH = {
+	use_culture_states = yes
+	
+	ai_will_do = { always = no }
+}
+
+ORI = {
+	use_culture_states = yes
+	
+	ai_will_do = { always = no }
+}
+
+BAL = {
+	provinces = { 
+		x5ABA94
+		x100090
+	}
+	
+	ai_will_do = { always = no }
+}
+
+BNJ= {
+	states = { STATE_WEST_BORNEO }
+	
+	ai_will_do = { always = no }
+}
+
+SUN = {
+	states = { STATE_WEST_JAVA }
+
+	ai_will_do = { always = no }
+}
+
+ASO = {
+	use_culture_states = yes
+	
+	ai_will_do = { always = no }
+}
+
+ATR = {
+	states = { STATE_TABRIZ }
+	
+	ai_will_do = { always = no }
+}
+
+BLH = {
+	states = { STATE_BALUCHISTAN }
+	
+	ai_will_do = { always = no }
+}
+
+TRC = {
+	states = { STATE_TURKMENIA }
+	
+	ai_will_do = { always = no }
+}
+
+PAS = {
+	states = { STATE_PASHTUNISTAN }
+		
+	ai_will_do = { always = no }
+}
+
+SIS = {
+	states = { STATE_SISTAN }
+		
+	ai_will_do = { always = no }
+}
+
+IRO = {
+	states = { STATE_IROQUOIS }
+
+	ai_will_do = { always = no }
+}
+
+LAU = {
+	use_culture_states = yes
+	
+	ai_will_do = { always = no }
+}
+
+NSV = {
+	use_culture_states = yes
+	
+	ai_will_do = { always = no }
+}
+
+OHI = {
+	states = {
+		STATE_OHIO
+		STATE_INDIANA
+		STATE_KENTUCKY
+		STATE_MICHIGAN
+		STATE_ILLINOIS
+		STATE_INDIANA
+		STATE_POLYPOTAMIA
+		STATE_WISCONSIN
+		STATE_SUPERIOR
+		STATE_NIAGARA
+		STATE_IOWA
+		STATE_MINNESOTA
+	}
+	
+	ai_will_do = { always = no }
+}
+
+MIC = {
+	states = {
+		STATE_MICHIGAN
+		STATE_ILLINOIS
+		STATE_WISCONSIN
+		STATE_SUPERIOR
+		STATE_NIAGARA
+	}
+	
+	ai_will_do = { always = no }
+}
+
+DES = {
+	states = {
+		STATE_IOWA
+		STATE_MINNESOTA
+	}
+	
+	ai_will_do = { always = no }
+}
+
+PEN = {
+	states = {
+		STATE_PENNSYLVANIA
+		STATE_WASHINGTONOH
+		STATE_WEST_VIRGINIA
+		STATE_IROQUOIS
+		STATE_NEW_YORK
+	}
+	
+	ai_will_do = { always = no }
+}
+MTC = {
+	use_culture_states = yes
+	
+	required_num_states = 1
+
+	ai_will_do = { always = no }
+}
+
+GEO = {
+	states = {
+		STATE_GREATER_CAUCASUS
+	}
+	
+	ai_will_do = { always = no }
+}
+
+ARM = {
+	states = {
+		STATE_ARMENIA
+		STATE_KARS
+	}
+	
+	ai_will_do = { always = no }
+}
+
+SCO = {
+	states = { 
+		STATE_LOWLANDS
+		STATE_HIGHLANDS
+	}
+
+	ai_will_do = { always = no }
+}
+
+EST = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+SWE = {
+	states = { 
+		STATE_SVEALAND 
+		STATE_GOTALAND 
+		STATE_SCANIA 
+		STATE_NORRLAND 
+	}
+	
+	required_num_states = 2
+
+	ai_will_do = { always = no }
+}
+
+FIN = {
+	states = { 
+		STATE_SOUTHERN_FINLAND 
+		STATE_NORTHERN_FINLAND 
+	}
+
+	required_num_states = 2
+
+	ai_will_do = { always = no }
+}
+
+NOR = {
+	use_culture_states = yes
+	
+	required_num_states = 2
+
+	ai_will_do = { always = no }
+}
+
+DEN = {
+	use_culture_states = yes
+	
+	required_num_states = 2
+
+	ai_will_do = { always = no }
+}
+
+ICL = {
+	states = { STATE_ICELAND }
+
+	ai_will_do = { always = no }
+}
+
+ASA = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+AGJ = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+AMZ = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+GRI = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+CHE = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+SCN = {
+	states = { STATE_SCANIA }
+	
+	ai_will_do = { always = no }
+}
+
+FRA = {
+	states = { 
+		STATE_PICARDY
+		STATE_CHAMPAGNE
+		STATE_FRANCHE_COMTE
+		STATE_FLANDERS
+		STATE_WALLONIA
+		STATE_RHINELAND
+	}
+	
+	ai_will_do = { always = no }
+}
+
+BRI = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+JAN = {
+	provinces = { x31968A }
+	
+	ai_will_do = { always = no }
+}
+
+UKR = {
+	use_culture_states = yes
+	
+	required_num_states = 3
+
+	ai_will_do = { always = no }
+}
+
+GAL = {
+}
+
+HUN = {
+	use_culture_states = yes
+	
+	required_num_states = 2
+
+	ai_will_do = { always = no }
+}
+
+ROM = {
+	use_culture_states = yes
+	
+	required_num_states = 3
+
+	ai_will_do = { always = no }
+}
+
+BOH = {
+	states = { STATE_BOHEMIA STATE_MORAVIA }
+
+	ai_will_do = { always = no }
+}
+
+SLV = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+LOM = {
+	states = { STATE_LOMBARDY }
+	
+	ai_will_do = { always = no }
+}
+
+
+BYE = {
+	use_culture_states = yes
+	
+	required_num_states = 2
+
+	ai_will_do = { always = no }
+}
+
+CRE = {
+	states = { STATE_CRETE }
+	
+	ai_will_do = { always = no }
+}
+
+POM = {
+	states = { STATE_POMERANIA }
+	
+	ai_will_do = { always = no }
+}
+
+ANH = {
+	states = { STATE_ANHALT }
+	
+	ai_will_do = { always = no }
+}
+
+NAS = {
+	provinces = { x3E794B x90C0A0 x1357DB }
+	
+	ai_will_do = { always = no }
+}
+
+HES = {
+	states = { STATE_HESSE }
+	
+	ai_will_do = { always = no }
+}	
+
+JAP = {
+	use_culture_states = yes
+	
+	required_num_states = 3
+
+	ai_will_do = { always = no }	
+}
+
+RUS = {
+	use_culture_states = yes
+	
+	required_num_states = 5
+
+	ai_will_do = { always = no }	
+}
+
+CHI = {
+	use_culture_states = yes
+	
+	required_num_states = 5
+
+	ai_will_do = { always = no }	
+}
+
+DAI = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+JAV = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+KOR = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+LAO = {
+	states = { STATE_LAOS }
+	
+	required_num_states = 1
+
+	ai_will_do = { always = no }
+}
+
+VIE = {
+	states = { STATE_LAOS }
+	
+	ai_will_do = { always = no }
+}
+
+CMI = {
+	states = { STATE_CHIANG_MAI }
+	
+	ai_will_do = { always = no }
+}
+
+SIA = {
+	use_culture_states = yes
+	
+	required_num_states = 2
+
+	ai_will_do = { always = no }
+}
+
+TIB = {
+	states = { STATE_LHASA }
+
+	ai_will_do = { always = no }
+}
+
+MGL = {
+	states = { 
+		STATE_ULAANBAATAR
+		STATE_KHOVSGOL	
+		STATE_HINGGAN
+		STATE_ALXA
+		STATE_TUVA
+	}
+
+	ai_will_do = { always = no }
+}
+
+MCH = {
+	states = { 
+		STATE_SOUTHERN_MANCHURIA
+		STATE_NORTHERN_MANCHURIA
+		STATE_OUTER_MANCHURIA
+	}
+
+	ai_will_do = { always = no }
+}
+
+XIN = {
+	states = { STATE_DZUNGARIA STATE_TIANSHAN }
+	
+	ai_will_do = { always = no }
+}
+
+HAI = {
+	states = { STATE_HAITI }
+	
+	ai_will_do = { always = no }
+}
+
+DOM = {
+	states = { STATE_SANTO_DOMINGO }
+	
+	ai_will_do = { always = no }
+}
+
+WIN = {
+	STATES = {
+		STATE_WEST_INDIES
+	}
+
+	ai_will_do = { always = no }
+}
+
+MAY = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+CAT = {
+	use_culture_states = yes
+	
+	required_num_states = 2
+
+	ai_will_do = { always = no }
+}
+
+SPA = {
+	use_culture_states = yes
+	
+	required_num_states = 2
+
+	ai_will_do = { always = no }
+}
+
+ELS = {
+	states = { STATE_SAN_SALVADOR }
+	
+	ai_will_do = { always = no }
+}
+
+GUA = {
+	states = { STATE_GUATEMALA }
+	
+	ai_will_do = { always = no }
+}
+
+ALT = {
+	provinces = { xD9BEFE x78C465 xBD8628 }
+	
+	ai_will_do = { always = no }
+}
+
+
+
+NIC = {
+	states = { STATE_NICARAGUA }
+	
+	ai_will_do = { always = no }
+}
+
+HON = {
+	states = { STATE_HONDURAS }
+	
+	ai_will_do = { always = no }
+}
+
+COS = {
+	states = { STATE_COSTA_RICA }
+	
+	ai_will_do = { always = no }
+}
+
+FRM = {
+	provinces = { x11C0A0 }
+	
+	ai_will_do = { always = no }
+}
+
+HAM = {
+	provinces = { x587297 }
+	
+	ai_will_do = { always = no }
+}
+
+BRE = {
+	provinces = { xC08061 x68BE66 }
+	
+	ai_will_do = { always = no }
+}
+
+CUB = {
+	states = { STATE_CUBA }
+	
+	ai_will_do = { always = no }
+}
+
+PCO = {
+	states = { STATE_PUERTO_RICO }
+	
+	ai_will_do = { always = no }
+}
+
+JAM = {
+	states = { STATE_JAMAICA }
+
+	ai_will_do = { always = no }
+}
+
+BAH = {
+	states = { STATE_BAHAMAS }
+
+	ai_will_do = { always = no }
+}
+
+PHI = {
+	use_culture_states = yes
+	
+	ai_will_do = { always = no }
+}
+
+PUE = {
+	use_culture_states = yes
+	ai_will_do = { always = no }
+}
+
+NAH = {
+	use_culture_states = yes
+	ai_will_do = { always = no }
+}
+
+GRN = {
+	states = { 
+		STATE_GREENLAND
+	}
+	ai_will_do = { always = no }
+}
+
+AIN = {
+	use_culture_states = yes
+	
+	ai_will_do = { always = no }
+}
+
+CAN = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+QUE = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+AST = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+NZL = {
+	states = { 
+		STATE_NORTH_ISLAND
+		STATE_SOUTH_ISLAND
+	}
+
+	ai_will_do = { always = no }
+}
+
+YUC = {
+	states = { 
+		STATE_YUCATAN
+	}
+
+	ai_will_do = { always = no }
+}
+
+RIO = {
+	states = { 
+		STATE_NUEVO_LEON
+		STATE_TEXAS
+	}
+
+	ai_will_do = { always = no }
+}
+
+PNI = {
+	states = { 
+		STATE_RIO_GRANDE_DO_SUL
+	}
+
+	ai_will_do = { always = no }
+}
+
+CEY = {
+	states = { 
+		STATE_CEYLON
+	}
+
+	ai_will_do = { always = no }
+}
+
+NEN = {
+	states = { 
+	}
+
+	ai_will_do = { always = no }
+}
+
+PNM = {
+	states = { 
+		STATE_PANAMA
+	}
+
+	ai_will_do = { always = no }
+}
+
+TWT = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+AYM = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+TEX = {
+	states = { 
+		STATE_TEXAS
+	}
+
+	ai_will_do = { always = no }
+}
+
+WLL = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+MLT = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+FLA = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+NNV = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+NEW = {
+	states = { 
+		STATE_NEWFOUNDLAND
+	}
+
+	ai_will_do = { always = no }
+}
+
+SMI = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+GBR = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+BOS = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+SAF = {
+	states = {
+		STATE_NORTHERN_CAPE
+		STATE_EASTERN_CAPE
+		STATE_CAPE_COLONY
+	}
+
+	ai_will_do = { always = no }
+}
+
+BUL = {
+	use_culture_states = yes
+
+	ai_will_do = { always = no }
+}
+
+IRQ = {
+	states = {
+		STATE_BAGHDAD
+		STATE_MOSUL
+		STATE_BASRA
+	}
+	ai_will_do = { always = no }
+}
+
+
+CYP = {
+	states = {
+		STATE_CYPRUS
+	}
+	ai_will_do = { always = no }
+}
+
+TUV = {
+	states = {
+		STATE_TUVA
+	}
+	ai_will_do = { always = no }
+}
+
+YAK = {
+	use_culture_states = yes
+	ai_will_do = { always = no }
+}
+
+TNS = {
+	states = {
+		STATE_OKHOTSK
+	}
+	ai_will_do = { always = no }
+}
+
+FER = {
+	states = {
+		STATE_OKHOTSK
+		STATE_KAMCHATKA
+		STATE_CHUKOTKA
+		STATE_OUTER_MANCHURIA
+		STATE_SAKHALIN
+		STATE_TRANS_BAIKAL
+	}
+	ai_will_do = { always = no }
+}
+
+IUS = {
+}
+
+NCA = {
+	use_culture_states = yes
+	ai_will_do = { always = no }
+}
+
+DON = {
+	states = {
+		STATE_ROSTOV
+		STATE_KUBAN
+	}
+	ai_will_do = { always = no }
+}
+
+EOT = {
+	states = {
+		STATE_TRANSJORDAN
+	}
+	ai_will_do = { always = no }
+}
+
+LEB = {
+	states = {
+	}
+	ai_will_do = { always = no }
+}
+
+SUD = {
+	states = {
+		STATE_BLUE_NILE
+		STATE_KORDOFAN
+		STATE_DONGOLA
+	}
+	ai_will_do = { always = no }
+}
+
+MEX = {
+	use_culture_states = yes
+	ai_will_do = { always = no }
+}
+
+ALD = {
+	states = {
+		STATE_ALGIERS
+		STATE_CONSTANTINE
+		STATE_TLEMCEN
+		STATE_SAHARA
+		STATE_EAST_SAHARA
+	}
+	
+	ai_will_do = { always = no }
+}
+
+YUG = {
+	use_culture_states = yes
+	
+	ai_will_do = { always = no }
+}
+
+ZIM = {
+	states = {
+		STATE_ZAMBEZI
+	}
+
+	ai_will_do = { always = no }
+}
+
+CLM = {
+	states = {
+		STATE_ANTIOQUIA
+		STATE_CUNDINAMARCA
+		STATE_CAUCA
+		STATE_GUAVIARE
+	}
+	
+	required_num_states = 3
+
+	ai_will_do = { always = no }
+}
+
+TUR = {
+	use_culture_states = yes
+	
+	required_num_states = 5
+
+	ai_will_do = { always = no }
+}
+
+DZG = {
+	states = { 
+		STATE_POMERANIA
+	}
+
+	ai_will_do = { always = no }
+}
+
+
+CZH = {
+	use_culture_states = yes
+	
+	ai_will_do = { always = no }
+
+	required_num_states = 3
+
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
+
+ARG = {
+	use_culture_states = yes
+	
+	ai_will_do = { always = no }
+}
+
+HAN = {
+	states = {
+		STATE_HANNOVER
+	}
+	
+	ai_will_do = { always = no }
+}
+
+UCA = {
+	use_culture_states = yes
+	
+	ai_will_do = { always = no }
+}
+
+SLO = {
+	use_culture_states = yes
+	
+	ai_will_do = { always = no }
+}
+
+KUR = {
+	states = {
+		STATE_MOSUL
+		STATE_DEIR_EZ_ZOR
+		STATE_LURISTAN
+		STATE_DIYARBAKIR
+	}
+
+	ai_will_do = { always = no }
+}
+
+ISR = {
+	states = {
+		STATE_PALESTINE
+	}
+
+	ai_will_do = { always = no }
+
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
+
+SIB = {
+	states = {
+		STATE_YAKUTSK
+		STATE_IRKUTSK
+		STATE_TRANS_BAIKAL
+		STATE_OKHOTSK
+		STATE_CHUKOTKA
+		STATE_UPPER_YENISEYSK
+		STATE_TOMSK
+		STATE_KAMCHATKA
+	}
+
+	required_num_states = 4
+
+	ai_will_do = { always = no }
+
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
+
+CAL = {
+	states = {
+		STATE_CALIFORNIA
+	}
+
+	ai_will_do = { always = no }
+}

@@ -1,0 +1,198 @@
+﻿POPS = {
+	s:STATE_URAL = {
+		region_state:SBR = {
+			create_pop = {
+				culture = magyar
+				religion = animist
+				size = 52065
+			}
+			create_pop = {
+				culture = kipchak
+				size = 58061
+			}
+			create_pop = {
+				culture = ugrian
+				religion = animist
+				size = 248022
+			}
+		}
+	}
+	s:STATE_TOMSK = {
+		region_state:KYG = {
+			create_pop = {
+				culture = siberian
+				size = 2008
+			}
+			create_pop = {
+				culture = kipchak
+				religion = animist
+				size = 16000
+			}
+			create_pop = {
+				culture = kipchak
+				religion = gelugpa
+				size = 48000
+			}
+		}
+	}
+	s:STATE_TOBOLSK = {
+		region_state:SBR = {
+			create_pop = {
+				culture = magyar
+				size = 13125
+			}
+			create_pop = {
+				culture = kipchak
+				size = 42983
+			}
+			create_pop = {
+				culture = ugrian
+				size = 37936
+			}
+			create_pop = {
+				culture = siberian
+				size = 20459
+			}
+		}
+	}
+	s:STATE_TUVA = {
+		region_state:MGL = {
+			create_pop = {
+				culture = tuvan
+				size = 82000
+			}
+		}
+	}
+	s:STATE_UPPER_YENISEYSK = {
+		region_state:EVK = {
+			create_pop = {
+				culture = siberian
+				size = 21780
+			}
+			create_pop = {
+				culture = mongol
+				size = 852
+			}
+			create_pop = {
+				culture = ugrian
+				size = 7980
+			}
+			create_pop = {
+				culture = yakut
+				size = 2568
+			}
+		}
+	}
+	s:STATE_OB = {
+		region_state:NNT = {
+			create_pop = {
+				culture = ugrian
+				size = 10776
+			}
+			create_pop = {
+				culture = bjarmian
+				size = 596
+			}
+		}
+	}
+	s:STATE_NENETSIA = {
+		region_state:BJR = {
+			create_pop = {
+				culture = bjarmian
+				size = 20204
+			}
+			create_pop = {
+				culture = ugrian
+				size = 16000
+			}
+		}
+	}
+	s:STATE_CHUKOTKA = {
+		region_state:CHU = {
+			create_pop = {
+				culture = siberian
+				size = 4231
+			}
+		}
+		region_state:EVN = {
+			create_pop = {
+				culture = siberian
+				size = 1813
+			}
+		}
+		region_state:YUP = {
+			create_pop = {
+				culture = inuit
+				size = 3580
+			}
+		}
+	}
+	s:STATE_KAMCHATKA = {
+		region_state:KRY = {
+			create_pop = {
+				culture = siberian
+				size = 5320
+			}
+		}
+		region_state:EVN = {
+			create_pop = {
+				culture = siberian
+				size = 2820
+			}
+		}
+		region_state:JAP = {
+			create_pop = {
+				culture = ainu
+				size = 3400
+			}
+			create_pop = {
+				culture = siberian
+				size = 280
+			}
+		}
+	}
+	s:STATE_OKHOTSK = {
+		region_state:JUR = {
+			create_pop = {
+				culture = yakut
+				size = 69196
+			}
+			create_pop = {
+				culture = siberian
+				size = 24576
+			}
+			create_pop = {
+				culture = jurchen
+				size = 85996
+			}
+			create_pop = {
+				culture = mongol
+				size = 36000
+			}
+		}
+	}
+	s:STATE_YAKUTSK = {
+		region_state:YAK = {
+			create_pop = {
+				culture = yakut
+				size = 50100
+			}
+			create_pop = {
+				culture = siberian
+				size = 800
+			}
+		}
+	}
+	s:STATE_IRKUTSK = {
+		region_state:MGL = {
+			create_pop = {
+				culture = mongol
+				size = 504412
+			}
+			create_pop = {
+				culture = siberian
+				size = 4996
+			}
+		}
+	}
+}

@@ -1,0 +1,1570 @@
+﻿POPS = {
+	s:STATE_LOUISIANA = {
+		region_state:MDC = {
+			create_pop = {
+				culture = briton
+				religion = catholic
+				size = 55992
+			}
+			create_pop = {
+				culture = madogwys
+				size = 118392
+			}
+			create_pop = {
+				culture = briton
+				religion = jewish
+				size = 200
+			}
+			create_pop = {
+				culture = afro_brasilian
+				size = 16106
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = afro_brasilian
+				size = 88994
+			}
+		}
+	}
+	s:STATE_NEW_YORK = {
+		region_state:NNE = {
+			create_pop = {
+				culture = havensmen
+				size = 398876
+			}
+			create_pop = {
+				culture = yankee
+				size = 230668
+			}
+		}
+		region_state:VIR = {
+			create_pop = {
+				culture = columbian
+				size = 33146
+			}
+			create_pop = {
+				culture = yankee
+				size = 20000
+			}
+			create_pop = {
+				culture = havensmen
+				size = 38764
+			}
+		}
+	}
+	s:STATE_IROQUOIS = {
+		region_state:NNE = {
+			create_pop = {
+				culture = havensmen
+				size = 206307
+			}
+			create_pop = {
+				culture = laurentian
+				size = 90905
+			}
+			create_pop = {
+				culture = yankee
+				size = 62412
+			}
+			create_pop = {
+				culture = iroquoian
+				size = 185300
+			}
+		}
+		region_state:VIR = {
+			create_pop = {
+				culture = havensmen
+				size = 36407
+			}
+			create_pop = {
+				culture = yankee
+				size = 37280
+			}
+			create_pop = {
+				culture = columbian
+				size = 39002
+			}
+			create_pop = {
+				culture = iroquoian
+				size = 32700
+			}
+		}
+	}
+	s:STATE_VIRGINIA = {
+		region_state:VIR = {	
+			create_pop = {
+				culture = columbian
+				size = 695643
+			}
+		}
+	}
+	s:STATE_ALASKA = {
+		region_state:ATB = {
+			create_pop = {
+				culture = athabaskan
+				size = 6312
+			}
+		}
+		region_state:INU = {
+			create_pop = {
+				culture = inuit
+				size = 2242
+			}
+		}
+		region_state:YUP = {
+			create_pop = {
+				culture = inuit
+				size = 4484
+			}
+		}
+		region_state:ALE = {
+			create_pop = {
+				culture = inuit
+				size = 2242
+			}
+		}
+	}
+	s:STATE_WASHINGTON = {
+		region_state:SAL = {
+			create_pop = {
+				culture = salish
+				size = 26177
+			}
+			create_pop = {
+				culture = nez_perce
+				size = 10000
+			}
+		}
+		region_state:HWI = {
+			create_pop = {
+				culture = ksikaner
+				size = 10000
+			}
+			create_pop = {
+				culture = salish
+				size = 11219
+			}
+		}
+	}
+	s:STATE_OREGON = {
+		region_state:CHN = {
+			create_pop = {
+				culture = ksikaner
+				size = 848
+			}			
+			create_pop = {
+				culture = penutian
+				size = 10000
+			}
+		}
+		region_state:SHS = {
+			create_pop = {
+				culture = paiute
+				size = 10000
+			}
+			create_pop = {
+				culture = nez_perce
+				size = 4000
+			}
+		}
+	}
+	s:STATE_IDAHO = {
+		region_state:NZP = {
+			create_pop = {
+				culture = nez_perce
+				size = 40000
+			}
+			create_pop = {
+				culture = paiute
+				size = 20000
+			}
+		}
+	}
+	s:STATE_COLORADO = {
+		region_state:UTE = {
+			create_pop = {
+				culture = paiute
+				size = 5600
+			}
+		}
+		region_state:ARP = {
+			create_pop = {
+				culture = algonquian
+				size = 22000
+			}
+		}
+		region_state:SHS = {
+			create_pop = {
+				culture = shoshone
+				size = 7000
+			}
+		}
+	}
+	s:STATE_MONTANA = {
+		region_state:ABS = {
+			create_pop = {
+				culture = siouan
+				size = 53000
+			}
+		}
+	}
+	s:STATE_NORTH_DAKOTA = {
+		region_state:IRC = {
+			create_pop = {
+				culture = siouan
+				size = 15000
+			}
+			create_pop = {
+				culture = algonquian
+				size = 5000
+			}
+		}
+		region_state:LKT = {
+			create_pop = {
+				culture = dakota
+				size = 3000
+			}
+		}
+	}
+	s:STATE_NEBRASKA = {
+		region_state:LKT = {
+			create_pop = {
+				culture = siouan
+				size = 19000
+			}
+			create_pop = {
+				culture = dakota
+				size = 77000
+			}
+		}
+		region_state:PWN = {
+			create_pop = {
+				culture = caddoan
+				size = 10000
+			}
+			create_pop = {
+				culture = siouan
+				size = 4000
+			}
+		}
+	}
+	s:STATE_KANSAS = {
+		region_state:WIT = {
+			create_pop = {
+				culture = caddoan
+				size = 12000
+			}
+		}
+		region_state:PWN = {
+			create_pop = {
+				culture = caddoan
+				size = 8000
+			}
+		}
+		region_state:OSA = {
+			create_pop = {
+				culture = siouan
+				size = 4000
+			}
+		}
+	}
+	s:STATE_OKLAHOMA = {
+		region_state:WIT = {
+			create_pop = {
+				culture = caddoan
+				size = 23200
+			}
+		}
+		region_state:OSA = {
+			create_pop = {
+				culture = siouan
+				size = 4000
+			}
+		}
+		region_state:COM = {
+			create_pop = {
+				culture = comanche
+				size = 6000
+			}
+		}
+	}
+	s:STATE_ARKANSAS = {
+		region_state:MDC = {
+			create_pop = {
+				culture = fredonian
+				size = 205480
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = afro_columbian
+				size = 21520
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = afro_brasilian
+				size = 33097
+			}
+			create_pop = {
+				culture = briton
+				size = 30277
+			}
+			create_pop = {
+				culture = madogwys
+				size = 139618
+			}
+		}
+		region_state:OSA = {
+			create_pop = {
+				culture = siouan
+				size = 30389
+			}
+		}
+	}
+	s:STATE_IOWA = {
+		region_state:VIR = {
+			create_pop = {
+				culture = algonquian
+				size = 16000
+			}
+			create_pop = {
+				culture = yankee
+				size = 11992
+			}
+		}
+		region_state:LKT = {
+			create_pop = {
+				culture = dakota
+				size = 8000
+			}
+		}
+	}
+	s:STATE_MINNESOTA = {
+		region_state:VIR = {
+			create_pop = {
+				culture = algonquian
+				size = 4000
+			}
+		}
+		region_state:LKT = {
+			create_pop = {
+				culture = dakota
+				size = 22000
+			}
+		}
+		region_state:OBI = {
+			create_pop = {
+				culture = algonquian
+				size = 4000
+			}
+		}
+	}
+	s:STATE_SUPERIOR = {
+		region_state:OBI = {
+			create_pop = {
+				culture = algonquian
+				size = 9002
+			}
+			create_pop = {
+				culture = skraeling
+				size = 3996
+			}
+		}
+		region_state:VIR = {
+			create_pop = {
+				culture = algonquian
+				size = 3900
+			}
+			create_pop = {
+				culture = yankee
+				size = 900
+			}
+		}
+	}
+	s:STATE_WISCONSIN = {
+		region_state:VIR = {
+			create_pop = {
+				culture = algonquian
+				size = 22000
+			}
+			create_pop = {
+				culture = yankee
+				size = 48004
+			}
+		}
+	}
+	s:STATE_INDIANA = {#illinoia
+		region_state:VIR = {
+			create_pop = {
+				culture = ohian
+				size = 243878
+			}
+			create_pop = {
+				culture = yankee
+				size = 81293
+			}
+			create_pop = {
+				culture = saxon
+				size = 10000
+			}
+		}		
+	}
+	s:STATE_POLYPOTAMIA = {
+		region_state:VIR = {
+			create_pop = {
+				culture = ohian
+				size = 441952
+			}
+			create_pop = {
+				culture = madogwys
+				size = 4004
+			}
+		}
+	}
+	s:STATE_MICHIGAN = {
+		region_state:VIR = {
+			create_pop = {
+				culture = yankee
+				size = 83996
+			}
+			create_pop = {
+				culture = siouan
+				size = 4000
+			}
+			create_pop = {
+				culture = havensmen
+				size = 8000
+			}
+			create_pop = {
+				culture = ohian
+				size = 24004
+			}
+		}
+	}
+	s:STATE_OHIO = {
+		region_state:VIR = {
+			create_pop = {
+				culture = ohian
+				size = 446100
+			}
+			create_pop = {
+				culture = columbian
+				size = 114000
+			}
+			create_pop = {
+				culture = yankee
+				size = 104002
+			}
+		}
+	}
+	s:STATE_WASHINGTONOH = {
+		region_state:VIR = {
+			create_pop = {
+				culture = ohian
+				size = 246100
+			}
+			create_pop = {
+				culture = columbian
+				size = 214000
+			}
+			create_pop = {
+				culture = yankee
+				size = 204002
+			}
+		}
+	}
+	s:STATE_KENTUCKY = {
+		region_state:VIR = {
+			create_pop = {
+				culture = columbian
+				size = 239988
+			}
+			create_pop = {
+				culture = ohian
+				size = 316392
+			}
+			create_pop = {
+				culture = madogwys
+				size = 20000
+			}
+		}
+	}
+	s:STATE_TENNESSEE = {
+		region_state:HBR = {
+			create_pop = {
+				culture = cherokee
+				size = 249991
+			}
+			create_pop = {
+				culture = nova_alban
+				size = 93921
+			}
+			create_pop = {
+				culture = madogwys
+				size = 79920
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = afro_brasilian
+				size = 67184
+			}
+			create_pop = {
+				culture = brendish
+				size = 59996
+			}
+		}
+	}
+	s:STATE_MISSISSIPPI = {
+		region_state:MDC = {
+			create_pop = {
+				culture = madogwys
+				size = 103682
+			}
+			create_pop = {
+				culture = afro_brasilian
+				size = 1226
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = afro_brasilian
+				size = 113174
+			}
+		}
+	}
+	s:STATE_ALABAMA = {
+		region_state:HBR = {
+			create_pop = {
+				culture = madogwys
+				size = 264880
+			}
+			create_pop = {
+				culture = brendish
+				size = 113409
+			}
+			create_pop = {
+				culture = afro_brasilian
+				size = 6846
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = afro_brasilian
+				size = 315774
+			}
+			create_pop = {
+				culture = cherokee
+				size = 23664
+			}
+		}
+	}
+	s:STATE_FLORIDA = {
+		region_state:CAR = {
+			create_pop = {
+				culture = carolinian
+				size = 38397
+			}
+			create_pop = {
+				culture = afro_amerigan
+				size = 817
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = afro_amerigan
+				size = 24946
+			}
+			create_pop = {
+				culture = muskogean
+				size = 30240
+			}
+		}
+	}
+	s:STATE_GEORGIA = {
+		region_state:HBR = {
+			create_pop = {
+				culture = brendish
+				size = 352834
+			}
+			create_pop = {
+				culture = cherokee
+				size = 88946
+			}
+			create_pop = {
+				culture = afro_brasilian
+				size = 2620
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = afro_brasilian
+				size = 236168
+			}
+		}
+	}
+	s:STATE_WEST_VIRGINIA = {
+		region_state:VIR = {
+			create_pop = {
+				culture = ohian
+				size = 151133
+			}
+			create_pop = {
+				culture = columbian
+				size = 250099
+			}
+		}
+	}
+	s:STATE_MARYLAND = {
+		region_state:VIR = {
+			create_pop = {
+				culture = columbian
+				size = 251997
+			}
+			create_pop = {
+				culture = upplander
+				size = 27544
+			}
+		}
+	}
+
+	s:STATE_DELAWARE = {
+		region_state:NNE = {
+			create_pop = {
+				culture = upplander
+				size = 177750
+			}
+			create_pop = {
+				culture = havensmen
+				size = 75550
+			}
+			create_pop = {
+				culture = columbian
+				size = 23700
+			}
+		}
+	}
+
+	s:STATE_PENNSYLVANIA = {
+		region_state:VIR = {
+			create_pop = {
+				culture = columbian
+				size = 1000397
+			}
+			create_pop = {
+				culture = yankee
+				size = 100000
+			}
+			create_pop = {
+				culture = ohian
+				size = 100000
+			}
+			create_pop = {
+				culture = yankee
+				religion = jewish
+				size = 2000
+			}
+		}
+	}
+	s:STATE_NEW_JERSEY = {
+		region_state:NNE = {
+			create_pop = {
+				culture = havensmen
+				size = 763000 
+			}
+			create_pop = {
+				culture = yankee
+				size = 279190
+			}
+			create_pop = {
+				culture = columbian
+				size = 75980
+			}
+			create_pop = {
+				culture = upplander
+				size = 100064 
+			}
+			create_pop = {
+				culture = ashkenazi
+				size = 2500
+			}
+		}
+	}
+	s:STATE_ILLINOIS = {
+		region_state:VIR = {
+			create_pop = {
+				culture = yankee
+				size = 221747
+			}
+			create_pop = {
+				culture = ohian
+				size = 95034
+			}
+			create_pop = {
+				culture = saxon
+				size = 10000
+			}
+		}
+	}
+	s:STATE_RHODE_ISLAND = {
+		region_state:MSS = {
+			create_pop = {
+				culture = yankee
+				size = 104820
+			}
+		}
+	}
+	s:STATE_CONNECTICUT = {
+		region_state:MSS = {
+			create_pop = {
+				culture = yankee
+				size = 199228
+			}
+		}
+	}
+	s:STATE_MASSACHUSETTS = {
+		region_state:MSS = {
+			create_pop = {
+				culture = yankee
+				size = 1283412
+			}
+			create_pop = {
+				culture = afro_columbian
+				size = 101996
+			}
+			create_pop = {
+				culture = laurentian
+				size = 16000
+			}
+			create_pop = {
+				culture = suebi
+				size = 24000
+			}
+		}
+	}
+	s:STATE_VERMONT = {
+		region_state:MSS = {
+			create_pop = {
+				culture = yankee
+				size = 282848
+			}
+		}
+	}
+	s:STATE_NORTH_CAROLINA = {
+		region_state:VIR = {
+			create_pop = {
+				culture = columbian
+				size = 392500
+			}
+		}
+	}
+	s:STATE_UTAH = {
+		region_state:SHS = {
+			create_pop = {
+				culture = shoshone
+				size = 17000
+			}
+			create_pop = {
+				culture = paiute
+				size = 4000
+			}
+		}
+		region_state:UTE = {
+			create_pop = {
+				culture = paiute
+				size = 7000
+			}
+		}
+	}
+	#stop
+	s:STATE_SOUTH_CAROLINA = {
+		region_state:HBR = {
+			create_pop = {
+				culture = nova_alban
+				size = 318452 
+			}
+			create_pop = {
+				culture = ashkenazi
+				religion = jewish
+				size = 1000
+			}
+			create_pop = {
+				culture = cherokee
+				size = 36960
+			}
+			create_pop = {
+				culture = afro_brasilian
+				size = 16198
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = afro_brasilian
+				size = 427226
+			}
+		}
+	}
+	s:STATE_BRASILIA = {
+		region_state:HBR = {
+			create_pop = {
+				culture = nova_alban
+				size = 45384 
+			}
+			create_pop = {
+				culture = brendish
+				size = 49204
+			}
+			create_pop = {
+				culture = afro_brasilian
+				size = 53711
+			}
+		}
+	}
+	s:STATE_HAWAIIAN_ISLANDS = {
+		region_state:HAW = {
+			create_pop = {
+				culture = hawaiian
+				size = 180804
+			}
+		}
+	}
+	s:STATE_ONTARIO = {
+		region_state:NNE = {
+			create_pop = {
+				culture = laurentian
+				size = 130400
+			}
+			create_pop = {
+				culture = havensmen
+				size = 54075
+			}
+			create_pop = {
+				culture = cree
+				size = 7200
+			}
+			create_pop = {
+				culture = iroquoian
+				size = 53902
+			}
+		}
+	}
+	s:STATE_ERIKSLAND = {
+		region_state:VIN = {
+			create_pop = {
+				culture = vinlandic
+				size = 16800
+			}
+			create_pop = {
+				culture = skraeling
+				size = 18565
+			}
+			create_pop = {
+				culture = cree
+				size = 20690
+			}
+		}
+	}
+	s:STATE_NIAGARA = {
+		region_state:VIR = {
+			create_pop = {
+				culture = yankee
+				size = 156317
+			}
+			create_pop = {
+				culture = cree
+				size = 5000
+			}
+		}
+	}
+	s:STATE_NEW_BRUNSWICK = {
+		region_state:MSS = {
+			create_pop = {
+				culture = yankee
+				size = 229591
+			}
+			create_pop = {
+				culture = afro_columbian
+				size = 17600
+			}
+			create_pop = {
+				culture = laurentian
+				size = 32800
+			}
+			create_pop = {
+				culture = vinlandic
+				size = 58972
+			}
+		}
+	}
+	s:STATE_QUEBEC = {
+		region_state:NNE = {
+			create_pop = {
+				culture = laurentian
+				size = 251920
+			}
+			create_pop = {
+				culture = cree
+				size = 6000
+			}
+		}
+	}
+	s:STATE_SHERBROOKE = {
+		region_state:MSS = {
+			create_pop = {
+				culture = yankee
+				size = 121080
+			}
+			create_pop = {
+				culture = laurentian
+				size = 70200
+			}
+		}
+	}
+	s:STATE_NEWFOUNDLAND = {
+		region_state:VIN = {
+			create_pop = {
+				culture = norwegian
+				size = 21600
+			}
+			create_pop = {
+				culture = vinlandic
+				size = 43677
+			}
+		}
+		region_state:VAS = {
+			create_pop = {
+				culture = vasconic
+				size = 8280
+			}
+		}
+	}
+	s:STATE_MARKLAND = {
+		region_state:VIN = {
+			create_pop = {
+				culture = inuit
+				size = 7980
+			}
+			create_pop = {
+				culture = norwegian
+				size = 5400
+			}
+			create_pop = {
+				culture = vinlandic
+				size = 10919
+			}
+		}
+	}
+	s:STATE_ALBERTA = {
+		region_state:BLF = {
+			create_pop = {
+				culture = algonquian
+				size = 30400
+			}
+			create_pop = {
+				culture = skraeling
+				size = 5000
+			}
+		}
+	}
+	s:STATE_BRITISH_COLUMBIA = {
+		region_state:TLN = {
+			create_pop = {
+				culture = athabaskan
+				size = 19468
+			}
+		}
+		region_state:ATB = {
+			create_pop = {
+				culture = athabaskan
+				size = 36160
+			}
+		}
+		region_state:HAD = {
+			create_pop = {
+				culture = athabaskan
+				size = 19040
+			}
+		}
+	}
+	s:STATE_SASKATCHEWAN = {
+		region_state:IRC = {
+			create_pop = {
+				culture = skraeling
+				size = 18000
+			}
+			create_pop = {
+				culture = algonquian
+				size = 11000
+			}
+			create_pop = {
+				culture = cree
+				size = 26000
+			}
+			create_pop = {
+				culture = siouan
+				size = 30204
+			}
+		}
+	}
+	s:STATE_MANITOBA = {
+		region_state:VIN = {
+			create_pop = {
+				culture = vinlandic
+				size = 14848
+			}
+			create_pop = {
+				culture = athabaskan
+				size = 11000
+			}
+			create_pop = {
+				culture = skraeling
+				size = 22000
+			}
+		}
+	}
+	s:STATE_YUKON_TERRITORY = {
+		region_state:INU = {
+			create_pop = {
+				culture = inuit
+				size = 8000
+			}
+		}
+	}
+	s:STATE_NORTHWEST_TERRITORIES = {
+		region_state:ATB = {
+			create_pop = {
+				culture = athabaskan
+				size = 24000
+			}
+			create_pop = {
+				culture = skraeling
+				size = 18999
+			}
+		}
+	}
+	s:STATE_NUNAVUT = {
+		region_state:VIN = {
+			create_pop = {
+				culture = inuit
+				size = 12980
+			}
+			create_pop = {
+				culture = vinlandic
+				size = 8000
+			}
+			create_pop = {
+				culture = skraeling
+				size = 6000
+			}
+		}
+	}
+	s:STATE_BERMUDA = {
+		region_state:VIR = {
+			create_pop = {
+				culture = columbian
+				size = 14848
+			}
+			create_pop = {
+				culture = afro_columbian
+				size = 12352
+			}
+		}
+	}
+	s:STATE_TEXAS = {
+		region_state:FRE = {
+			create_pop = {
+				culture = fredonian
+				size = 120890
+			}
+			create_pop = {
+				culture = siouan
+				size = 4996
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = afro_columbian
+				size = 44040
+			}
+			create_pop = {
+				culture = ksikaner
+				size = 44004
+			}
+		}
+		region_state:KRL = {
+			create_pop = {
+				culture = ksikaner
+				size = 48029
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = afro_amerigan
+				size = 60230
+			}
+		}
+		region_state:COM = {
+			create_pop = {
+				culture = comanche
+				size = 12000
+			}
+			create_pop = {
+				culture = apache
+				size = 4000
+			}
+		}
+	}
+	s:STATE_NEVADA = {
+		region_state:SHS = {
+			create_pop = {
+				culture = paiute
+				size = 16000
+			}
+			create_pop = {
+				culture = shoshone
+				size = 12000
+			}
+		}
+	}
+	s:STATE_ARIZONA = {
+		region_state:NPR = {
+			create_pop = {
+				culture = oodham
+				size = 4000
+			}
+			create_pop = {
+				culture = ksikaner
+				size = 1004
+			}
+			create_pop = {
+				culture = pueblo
+				size = 5000
+			}
+			create_pop = {
+				culture = apache
+				size = 7000
+			}
+		}
+		region_state:NVJ = {
+			create_pop = {
+				culture = navajo
+				size = 28000
+			}
+		}
+		region_state:SHS = {
+			create_pop = {
+				culture = shoshone
+				size = 4000
+			}
+		}
+	}
+	s:STATE_NEW_MEXICO = {
+		region_state:NPR = {
+			create_pop = {
+				culture = ksikaner
+				size = 8000
+			}
+			create_pop = {
+				culture = pueblo
+				size = 16000
+			}
+		}
+		region_state:NVJ = {
+			create_pop = {
+				culture = navajo
+				size = 10000
+			}
+			create_pop = {
+				culture = paiute
+				size = 2000
+			}
+		}
+		region_state:COM = {
+			create_pop = {
+				culture = siouan
+				size = 3000
+			}
+			create_pop = {
+				culture = comanche
+				size = 4796
+			}
+		}
+		region_state:APC = {
+			create_pop = {
+				culture = apache
+				size = 18000
+			}
+			create_pop = {
+				culture = pueblo
+				size = 10000
+			}
+		}
+	}
+	s:STATE_CALIFORNIA = {
+		region_state:NPR = {
+			create_pop = {
+				culture = penutian
+				size = 10400 
+			}
+			create_pop = {
+				culture = ksikaner
+				size = 6000
+			}
+		}
+		region_state:YUR = {
+			create_pop = {
+				culture = algonquian
+				size = 15600 
+			}
+		}
+		region_state:YOK = {
+			create_pop = {
+				culture = penutian
+				size = 15600 
+			}
+		}
+	}
+	s:STATE_SONORA = {
+		region_state:NPR = {
+			create_pop = {
+				culture = ksikaner
+				size = 69087
+			}
+			create_pop = {
+				culture = oodham
+				size = 43637
+			}
+		}
+	}
+	s:STATE_CHIHUAHUA = {
+		region_state:NPR = {
+			create_pop = {
+				culture = ksikaner
+				size = 139895
+			}
+			create_pop = {
+				culture = oodham
+				size = 8000
+			}
+			create_pop = {
+				culture = apache
+				size = 12000
+			}
+		}
+	}
+	s:STATE_RIO_GRANDE = {
+		region_state:NPR = {
+			create_pop = {
+				culture = ksikaner
+				size = 112049
+			}
+			create_pop = {
+				culture = oodham
+				size = 39000
+			}
+			create_pop = {
+				culture = oodham
+				religion = arian
+				size = 70004
+			}
+			create_pop = {
+				culture = afro_amerigan
+				size = 30000
+			}
+		}
+		region_state:APC = {
+			create_pop = {
+				culture = apache
+				size = 8000
+			}
+		}
+		region_state:COM = {
+			create_pop = {
+				culture = comanche
+				size = 6000
+			}
+		}
+		region_state:FRE = {
+			create_pop = {
+				culture = fredonian
+				size = 18334
+			}
+			create_pop = {
+				culture = ksikaner
+				size = 24449
+			}
+		}
+	}
+	s:STATE_VERACRUZ = {
+		region_state:HWI = {
+			create_pop = {
+				culture = mexikaner
+				size = 568137
+			}
+			create_pop = {
+				culture = nahua
+				size = 50212
+			}
+		}
+	}
+	s:STATE_DURANGO = {
+		region_state:NPR = {
+			create_pop = {
+				culture = ksikaner
+				size = 136199
+			}
+			create_pop = {
+				culture = oodham
+				size = 20000
+			}
+			create_pop = {
+				culture = afro_amerigan
+				size = 8000
+			}
+		}
+	}
+	s:STATE_SINALOA = {
+		region_state:NPR = {
+			create_pop = {
+				culture = ksikaner
+				size = 113841
+			}
+			create_pop = {
+				culture = oodham
+				size = 20000
+			}
+			create_pop = {
+				culture = afro_amerigan
+				size = 5500
+			}
+		}
+	}
+	s:STATE_CRETTARO = {
+		region_state:HWI = {
+			create_pop = {
+				culture = mexikaner
+				size = 261525
+			}
+			create_pop = {
+				culture = nahua
+				size = 53292
+			}
+		}
+	}
+	s:STATE_BAJIO = {
+		region_state:TAR = {
+			create_pop = {
+				culture = mexikaner
+				size = 68982
+			}
+			create_pop = {
+				culture = nahua
+				size = 36646
+			}
+			create_pop = {
+				culture = tarascan
+				size = 208482
+			}
+			create_pop = {
+				culture = afro_amerigan
+				size = 7602
+			}
+		}
+	}
+	s:STATE_YUCATAN = { 
+		region_state:MAY = {
+			create_pop = {
+				culture = mexikaner
+				size = 22338
+			}
+			create_pop = {
+				culture = mayan
+				size = 479510
+			}
+			create_pop = {
+				culture = afro_amerigan
+				size = 9904
+			}
+			create_pop = {
+				culture = saxon
+				size = 104
+			}
+		}
+	}
+	s:STATE_MEXICO = {
+		region_state:AZT = {
+			create_pop = {
+				culture = nahua
+				size = 397999
+			}
+			create_pop = {
+				culture = afro_amerigan
+				size = 24000
+			}
+		}
+		region_state:TLA = {
+			create_pop = {
+				culture = nahua
+				size = 696999
+			}
+			create_pop = {
+				culture = afro_amerigan
+				size = 84000
+			}
+			create_pop = {
+				culture = zapotec
+				size = 164004
+			}
+		}
+	}
+	s:STATE_GUERRERO = { 
+		region_state:HWI = {
+			create_pop = {
+				culture = mexikaner
+				size = 114874
+			}
+			create_pop = {
+				culture = tarascan
+				size = 36508
+			}
+			create_pop = {
+				culture = nahua
+				size = 27381
+			}
+			create_pop = {
+				culture = afro_amerigan
+				size = 30036
+			}
+		}
+	}
+	s:STATE_OAXACA = {
+		region_state:MIX = {
+			create_pop = {
+				culture = mexikaner
+				size = 28781
+			}
+			create_pop = {
+				culture = mixtec
+				size = 121792 
+			}
+			create_pop = {
+				culture = zapotec
+				size = 81883
+			}
+			create_pop = {
+				culture = tarascan
+				size = 11973
+			}
+			create_pop = {
+				culture = nahua
+				size = 8081
+			}
+			create_pop = {
+				culture = afro_amerigan
+				size = 23492
+			}
+		}
+		region_state:HWI = {
+			create_pop = {
+				culture = mexikaner
+				size = 65122
+			}
+			create_pop = {
+				culture = mixtec
+				size = 30448
+			}
+			create_pop = {
+				culture = zapotec
+				size = 30471
+			}
+			create_pop = {
+				culture = tarascan
+				size = 47890
+			}
+			create_pop = {
+				culture = nahua
+				size = 80407
+			}
+			create_pop = {
+				culture = afro_amerigan
+				size = 23492
+			}
+		}
+	}
+	s:STATE_JALISCO = {
+		region_state:NPR = {
+			create_pop = {
+				culture = mexikaner
+				size = 455270
+			}
+			create_pop = {
+				culture = oodham
+				religion = arian
+				size = 152078
+			}
+			create_pop = {
+				culture = oodham
+				size = 26373
+			}
+		}
+		region_state:KOL = {
+			create_pop = {
+				culture = mexikaner
+				size = 101171
+			}
+		}
+	}
+	s:STATE_ZACATECAS = {
+		region_state:CHM = {
+			create_pop = {
+				culture = mexikaner
+				size = 27469
+			}
+			create_pop = {
+				culture = nahua
+				size = 352484
+			}
+		}
+		region_state:NPR = {
+			create_pop = {
+				culture = mexikaner
+				size = 109878
+			}
+		}
+	}
+	s:STATE_CHIAPAS = {
+		region_state:HWI = {
+			create_pop = {
+				culture = mexikaner
+				size = 81702
+			}
+			create_pop = {
+				culture = mayan
+				size = 143815
+			}
+		}
+	}
+	s:STATE_BAJA_CALIFORNIA = {
+		region_state:NPR = {
+			create_pop = {
+				culture = penutian
+				size = 2080 
+			}
+			create_pop = {
+				culture = ksikaner
+				size = 9264
+			}
+			create_pop = {
+				culture = oodham
+				size = 13300
+			}
+			create_pop = {
+				culture = afro_amerigan
+				size = 2600
+			}
+		}
+		region_state:YOK = {
+			create_pop = {
+				culture = penutian
+				size = 8320 
+			}
+		}
+		region_state:SHS = {
+			create_pop = {
+				culture = paiute
+				size = 2000 
+			}
+		}
+	}
+}

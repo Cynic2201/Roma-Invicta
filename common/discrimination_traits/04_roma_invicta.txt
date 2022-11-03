@@ -1,0 +1,106 @@
+apollonian_heritage = {
+	heritage = yes
+}
+african_heritage = {
+	heritage = yes 
+}
+altaic_heritage = {
+	heritage = yes
+}
+caucasian_heritage = {
+	heritage = yes
+}
+celtic_heritage = {
+	heritage = yes
+}
+east_asian_heritage = {
+	heritage = yes
+}
+egyptian_heritage = {
+	heritage = yes
+}
+germanic_heritage = {
+	heritage = yes
+}
+illyrian_heritage = {
+	heritage = yes
+}
+iranic_heritage = {
+	heritage = yes
+}
+indigenous_hesperdian_heritage = {
+	heritage = yes
+}
+indigenous_oceanic_heritage = {
+	heritage = yes
+}
+semetic_heritage = {
+	heritage = yes
+}
+slavic_heritage = {
+	heritage = yes
+}
+south_asian_heritage = {
+	heritage = yes
+}
+southeast_asian_heritage = {
+	heritage = yes
+}
+uralic_heritage = {
+	heritage = yes
+}
+vasconic_heritage = {
+	heritage = yes
+}
+aboriginal_australian = {}
+afro_hesperdian = {}
+ainu_language = {}
+arab_speaking = {}
+baltic_culture_group = {}
+bantu = {}
+berber_people = {}
+british_people = {}
+burmese_language = {}
+caucasus_group = {}
+central_african_culture_group = {}
+columbian_culture = {}
+dravidian = {}
+east_african_culture_group = {}
+egyptian = {}
+finnic = {}
+frankish_culture_group = {}
+german_speaking = {}
+gothic = {}
+han_chinese = {}
+hellenic_culture = {}
+himalayan = {}
+hindustani = {}
+hmong_mien_language = {}
+hungarian_culture_group = {}
+illyrian_culture = {}
+inkan_group = {}
+iranian_culture_group = {}
+jewish_group = {}
+khmer_language = {}
+korean_language = {}
+malagasy_language = {}
+malay_culture = {}
+mongol_language = {}
+native_mesoamerican_culture_group = {}
+north_american_group = {}
+northeast_indian = {}
+persian_culture_group = {}
+polish_culture = {}
+polynesian_group = {}
+roman_culture = {}
+rus_culture = {}
+scandinavian_culture_group = {}
+siberian_culture_group = {}
+south_american_group = {}
+southern_african_culture_group = {}
+tai = {}
+tibetan_language = {}
+turkic = {}
+vandalic_people = {}
+west_african_culture_group = {}
+yamato = {}
