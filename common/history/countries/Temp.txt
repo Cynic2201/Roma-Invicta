@@ -126,25 +126,7 @@
 		ig:ig_devout = {
 			set_interest_group_name = ig_catholic_church
 		}
-	}
-	c:BRT = {
-		effect_starting_technology_tier_2_tech = yes
-		
-		effect_starting_politics_reactionary = yes
-
-		ig:ig_devout = {
-			set_interest_group_name = ig_catholic_church
-		}
-	}
-	c:BNI = {
-		effect_starting_technology_tier_2_tech = yes
-		
-		effect_starting_politics_reactionary = yes
-
-		ig:ig_devout = {
-			set_interest_group_name = ig_catholic_church
-		}
-	}
+	}	
 	c:DER = {
 		effect_starting_technology_tier_2_tech = yes
 		
@@ -173,15 +155,6 @@
 		}
 	}
 	c:VAL = {
-		effect_starting_technology_tier_2_tech = yes
-		
-		effect_starting_politics_reactionary = yes
-
-		ig:ig_devout = {
-			set_interest_group_name = ig_catholic_church
-		}
-	}
-	c:DUB = {
 		effect_starting_technology_tier_2_tech = yes
 		
 		effect_starting_politics_reactionary = yes
@@ -254,15 +227,6 @@
 		}
 	}
 	c:HAM = {
-		effect_starting_technology_tier_2_tech = yes
-		
-		effect_starting_politics_reactionary = yes
-
-		ig:ig_devout = {
-			set_interest_group_name = ig_catholic_church
-		}
-	}
-	c:DUB = {
 		effect_starting_technology_tier_2_tech = yes
 		
 		effect_starting_politics_reactionary = yes
@@ -443,42 +407,6 @@
 		}
 	}
 	c:BRT = {
-		effect_starting_technology_tier_2_tech = yes
-		
-		effect_starting_politics_reactionary = yes
-
-		ig:ig_devout = {
-			set_interest_group_name = ig_catholic_church
-		}
-	}
-	c:CMB = {
-		effect_starting_technology_tier_2_tech = yes
-		
-		effect_starting_politics_reactionary = yes
-
-		ig:ig_devout = {
-			set_interest_group_name = ig_catholic_church
-		}
-	}
-	c:VAL = {
-		effect_starting_technology_tier_2_tech = yes
-		
-		effect_starting_politics_reactionary = yes
-
-		ig:ig_devout = {
-			set_interest_group_name = ig_catholic_church
-		}
-	}
-	c:BNI = {
-		effect_starting_technology_tier_2_tech = yes
-		
-		effect_starting_politics_reactionary = yes
-
-		ig:ig_devout = {
-			set_interest_group_name = ig_catholic_church
-		}
-	}
-	c:DER = {
 		effect_starting_technology_tier_2_tech = yes
 		
 		effect_starting_politics_reactionary = yes
