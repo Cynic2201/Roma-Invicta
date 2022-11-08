@@ -770,16 +770,16 @@ STATE_ARAKAN = {
 #TODO    farm = 
     mine = xB316F6
 #TODO    wood = 
-#TODO    arable_land = 
+    arable_land = 16
     arable_resources = { "bg_rice_farms" "bg_livestock_ranches" "bg_opium_plantations" "bg_tea_plantations" "bg_tobacco_plantations" "bg_sugar_plantations" "bg_banana_plantations" }
-#TODO    capped_resources = {
-#TODO        bg_logging = 
-#TODO        bg_fishing = 
-#TODO    }
-#TODO    resource = {
-#TODO        type = "bg_rubber"
-#TODO        undiscovered_amount = 
-#TODO    }
+    capped_resources = {
+        bg_logging = 4
+        bg_fishing = 3
+    }
+    resource = {
+        type = "bg_rubber"
+        undiscovered_amount = 4
+    }
     naval_exit_id = 3050
 }
 
@@ -795,23 +795,25 @@ STATE_LANFANG = {
     farm = x445D59
     mine = x1C7417
     wood = x6D4CDF
-#TODO    arable_land = 
+    arable_land = 24
     arable_resources = { "bg_rice_farms" "bg_livestock_ranches" "bg_coffee_plantations" "bg_dye_plantations" "bg_tea_plantations" "bg_tobacco_plantations" "bg_banana_plantations" }
-#TODO    capped_resources = {
-#TODO        bg_lead_mining = 
-#TODO        bg_logging = 
-#TODO        bg_fishing = 
-#TODO    }
-#TODO    resource = {
-#TODO        type = "bg_gold_fields"
-#TODO        depleted_type = "bg_gold_mining"
-#TODO        undiscovered_amount = 
-#TODO        discovered_amount = 
-#TODO    }
-#TODO    resource = {
-#TODO        type = "bg_rubber"
-#TODO        undiscovered_amount = 
-#TODO    }
+    capped_resources = {
+        bg_iron_mining = 12
+        bg_lead_mining = 30
+        bg_logging = 11
+        bg_fishing = 7
+    }
+	
+    resource = {
+        type = "bg_gold_fields"
+        depleted_type = "bg_gold_mining"
+        undiscovered_amount = 14
+        discovered_amount = 4
+    }
+    resource = {
+        type = "bg_rubber"
+        undiscovered_amount = 4
+    }
     naval_exit_id = 3052
 }
 
@@ -824,15 +826,14 @@ STATE_GANGWON = {
     farm = x03EAAF
 #TODO    mine = 
 #TODO    wood = 
-#TODO    arable_land = 
+    arable_land = 50
     arable_resources = { "bg_rice_farms" "bg_livestock_ranches" "bg_cotton_plantations" "bg_silk_plantations" "bg_tobacco_plantations" }
-#TODO    capped_resources = {
-#TODO        bg_iron_mining = 
-#TODO        bg_lead_mining = 
-#TODO        bg_logging = 
-#TODO        bg_whaling = 
-#TODO        bg_fishing = 
-#TODO    }
+    capped_resources = {
+        bg_iron_mining = 12
+        bg_logging = 6
+        bg_whaling = 4
+        bg_fishing = 2
+    }
     naval_exit_id = 3059
 }
 
@@ -844,15 +845,12 @@ STATE_KANDO = {
 #TODO    farm = 
 #TODO    mine = 
 #TODO    wood = 
-#TODO    arable_land = 
+    arable_land = 150
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_cotton_plantations" "bg_silk_plantations" }
-#TODO    capped_resources = {
-#TODO        bg_coal_mining = 
-#TODO        bg_iron_mining = 
-#TODO        bg_lead_mining = 
-#TODO        bg_logging = 
-#TODO        bg_fishing = 
-#TODO    }
+    capped_resources = {
+        bg_coal_mining = 20
+        bg_logging = 7
+    }
 }
 
 STATE_AMUR = {
@@ -864,19 +862,18 @@ STATE_AMUR = {
 #TODO    farm = 
     mine = x5BD04E
     wood = xB7CA59
-#TODO    arable_land = 
+    arable_land = 48
     arable_resources = { "bg_livestock_ranches" }
-#TODO    capped_resources = {
-#TODO        bg_coal_mining = 
-#TODO        bg_iron_mining = 
-#TODO        bg_logging = 
-#TODO        bg_fishing = 
-#TODO    }
-#TODO    resource = {
-#TODO        type = "bg_gold_fields"
-#TODO        depleted_type = "bg_gold_mining"
-#TODO        undiscovered_amount = 
-#TODO    }
+    capped_resources = {
+        bg_coal_mining = 16 
+        bg_logging = 6
+        bg_fishing = 4
+	}
+    resource = {
+        type = "bg_gold_fields"
+        depleted_type = "bg_gold_mining"
+        undiscovered_amount = 8
+    }
     naval_exit_id = 3118
 }
 

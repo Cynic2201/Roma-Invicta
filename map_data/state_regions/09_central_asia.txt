@@ -306,11 +306,12 @@ STATE_AKMOLINSK = {
     farm = "xDF3E66"
     mine = "x5929A2"
     wood = "x0CCA19"
-    arable_land = 104
+    arable_land = 114
     arable_resources = { "bg_livestock_ranches" }
     capped_resources = {
-        bg_iron_mining = 51
-        bg_logging = 8
+        bg_coal_mining = 56
+		bg_iron_mining = 75
+        bg_logging = 9
     }
 }
 

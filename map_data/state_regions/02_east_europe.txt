@@ -341,12 +341,12 @@ STATE_PERM = {
     farm = "x624DC2"
     mine = "x26FB73"
     wood = "xF1472B"
-    arable_land = 110
+    arable_land = 114
     arable_resources = { "bg_rye_farms" "bg_livestock_ranches" }
     capped_resources = {
         bg_coal_mining = 80
         bg_iron_mining = 75
-        bg_logging = 20
+        bg_logging = 25
     }
     resource = {
         type = "bg_oil_extraction"
