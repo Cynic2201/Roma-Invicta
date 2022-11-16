@@ -112,7 +112,7 @@
 				size = 17390
 			}
 			create_pop = {
-				culture = nubian
+				culture = berber
 				size = 9712
 			}
 		}
