@@ -434,7 +434,7 @@
 	}
 
 	s:STATE_MADEIRA = {
-		region_state:POR = {
+		region_state:VAN = {
 			create_pop = {
 				culture = vandal
 				size = 103532

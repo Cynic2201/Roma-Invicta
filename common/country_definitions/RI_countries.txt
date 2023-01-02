@@ -1877,7 +1877,7 @@ MLI = {
 	
 	tier = empire
 
-	cultures = { bambara fulbe }
+	cultures = { bambara fulbe mande }
 	capital = STATE_GUINEA
 }
 
