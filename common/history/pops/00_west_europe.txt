@@ -819,15 +819,19 @@
 			create_pop = {
 				culture = dutch
 				religion = catholic
-				size = 300000
+				size = 327009
 			}
 			create_pop = {
 				culture = frankish
-				size = 21400
+				size = 13400
+			}
+			create_pop = {
+				culture = saxon
+				size = 86542
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 34004
+				size = 34143
 			}
 		}
 	}
@@ -835,11 +839,11 @@
 		region_state:FRI = {
 			create_pop = {
 				culture = frisian
-				size = 422400
+				size = 428678
 			}
 			create_pop = {
 				culture = dutch
-				size = 150000
+				size = 134022
 			}
 			create_pop = {
 				culture = north_german
@@ -847,7 +851,7 @@
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 1000
+				size = 10947
 			}
 		}
 	}
